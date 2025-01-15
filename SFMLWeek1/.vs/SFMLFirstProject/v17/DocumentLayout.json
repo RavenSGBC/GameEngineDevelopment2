@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thera\\GithubProjects\\GameEngineDevelopment2\\SFMLWeek1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75224B7E-DBE6-4621-9B86-682F51C87296}|SFMLFirstProject64\\Project1.vcxproj|C:\\Users\\thera\\GithubProjects\\GameEngineDevelopment2\\SFMLWeek1\\SFMLFirstProject64\\Include\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75224B7E-DBE6-4621-9B86-682F51C87296}|SFMLFirstProject64\\Project1.vcxproj|solutionrelative:SFMLFirstProject64\\Include\\Game.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75224B7E-DBE6-4621-9B86-682F51C87296}|SFMLFirstProject64\\Project1.vcxproj|C:\\Users\\thera\\GithubProjects\\GameEngineDevelopment2\\SFMLWeek1\\SFMLFirstProject64\\Source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75224B7E-DBE6-4621-9B86-682F51C87296}|SFMLFirstProject64\\Project1.vcxproj|solutionrelative:SFMLFirstProject64\\Source\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75224B7E-DBE6-4621-9B86-682F51C87296}|SFMLFirstProject64\\Project1.vcxproj|C:\\Users\\thera\\GithubProjects\\GameEngineDevelopment2\\SFMLWeek1\\SFMLFirstProject64\\Source\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75224B7E-DBE6-4621-9B86-682F51C87296}|SFMLFirstProject64\\Project1.vcxproj|solutionrelative:SFMLFirstProject64\\Source\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.hpp",
+              "DocumentMoniker": "C:\\Users\\thera\\GithubProjects\\GameEngineDevelopment2\\SFMLWeek1\\SFMLFirstProject64\\Include\\Game.hpp",
+              "RelativeDocumentMoniker": "SFMLFirstProject64\\Include\\Game.hpp",
+              "ToolTip": "C:\\Users\\thera\\GithubProjects\\GameEngineDevelopment2\\SFMLWeek1\\SFMLFirstProject64\\Include\\Game.hpp",
+              "RelativeToolTip": "SFMLFirstProject64\\Include\\Game.hpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T21:53:30.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\thera\\GithubProjects\\GameEngineDevelopment2\\SFMLWeek1\\SFMLFirstProject64\\Source\\main.cpp",
+              "RelativeDocumentMoniker": "SFMLFirstProject64\\Source\\main.cpp",
+              "ToolTip": "C:\\Users\\thera\\GithubProjects\\GameEngineDevelopment2\\SFMLWeek1\\SFMLFirstProject64\\Source\\main.cpp",
+              "RelativeToolTip": "SFMLFirstProject64\\Source\\main.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T21:53:27.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\thera\\GithubProjects\\GameEngineDevelopment2\\SFMLWeek1\\SFMLFirstProject64\\Source\\Game.cpp",
+              "RelativeDocumentMoniker": "SFMLFirstProject64\\Source\\Game.cpp",
+              "ToolTip": "C:\\Users\\thera\\GithubProjects\\GameEngineDevelopment2\\SFMLWeek1\\SFMLFirstProject64\\Source\\Game.cpp",
+              "RelativeToolTip": "SFMLFirstProject64\\Source\\Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T21:52:24.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
